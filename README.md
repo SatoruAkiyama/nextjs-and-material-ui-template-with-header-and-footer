@@ -92,7 +92,7 @@ description="Page title"
 
 # Author
 
-Satoru Akiyama
+Satoru Akiyama(https://satoruakiyama.com)
 
 # License
 
