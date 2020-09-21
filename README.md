@@ -31,7 +31,7 @@ export const socialMedia = {
   facebook: "https://www.facebook.com/satoruakiyama1998",
   github: "https://github.com/SatoruAkiyama/blog-with-nextjs-and-contentful",
   homepage: "https://satoruakiyama.com",
-  // if you want to add, do like following code
+  //if you want to add, you can do like following code
   // twitter: "https://twitter.com",
 };
 ```
