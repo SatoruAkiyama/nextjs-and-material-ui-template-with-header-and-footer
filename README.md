@@ -81,7 +81,7 @@ const avatar = "Your picture"
 // under the line 71, type your introduction
 ```
 
-##　 meta tag, Page title
+## meta tag, Page title
 
 Set "title" and "page description" In this template, the value of "head tag" is given to /components/layout/Layout.js as props. Open /pages/index.js and /pages/about.js. Change the page title and page description.
 
