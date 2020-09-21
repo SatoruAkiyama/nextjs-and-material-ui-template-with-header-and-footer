@@ -64,24 +64,7 @@ const { instagram, facebook, github, homepage, twitter } = socialMedia;
 
 Then you can see the Twitter icon in the footer and the about page.
 
-## About Page
-
-Open /pages/about. Here, edit name, picture and introduce text.
-
-```bash
-// about.js
-
-
-// line 31
-const name = "Your name"
-
-// line 33
-const avatar = "Your picture"
-
-// under the line 71, type your introduction
-```
-
-## meta tag, Page title
+## meta tag, title tag
 
 Set "title" and "page description" In this template, the value of "head tag" is given to /components/layout/Layout.js as props. Open /pages/index.js and /pages/about.js. Change the page title and page description.
 
@@ -89,10 +72,10 @@ Set "title" and "page description" In this template, the value of "head tag" is 
 // index.js
 
 
-// line 19　value of <title> tag
+// line 27　value of <title> tag
 title="Page title"
 
-// line 20　value of <meta name="description" content=""/> tag
+// line 28　value of <meta name="description" content=""/> tag
 description="Page description"
 ```
 
@@ -100,10 +83,10 @@ description="Page description"
 //about.js
 
 
-// line 38　value of <title> tag
+// line 35　value of <title> tag
 title="Page title"
 
-// line 39　value of <meta name="description" content=""/> tag
+// line 36　value of <meta name="description" content=""/> tag
 description="Page title"
 ```
 
