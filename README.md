@@ -92,7 +92,7 @@ description="Page title"
 
 # Author
 
-Satoru Akiyama(https://portfolio-satoruakiyam)
+Satoru Akiyama(https://portfolio-satoruakiyama.vercel.app)
 
 # License
 
