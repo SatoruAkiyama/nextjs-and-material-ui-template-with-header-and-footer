@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme) => ({
       color: theme.palette.info.main,
     },
   },
-  copylight: {
+  copyRight: {
     color: "#fff",
     fontSize: "1em",
     "&:hover": {
@@ -73,7 +73,7 @@ const Footer = () => {
             textDecoration: "none",
           }}
         >
-          <Typography className={classes.copylight}>
+          <Typography className={classes.copyRight}>
             &copy;Satoru Akiyama
           </Typography>
         </Grid>
