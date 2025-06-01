@@ -27,10 +27,10 @@ Open /data/socialMedia.js. By default , the URLs are Instagram, Facebook, GitHub
 // replace default with your URL
 
 export const socialMedia = {
-  instagram: "https://www.instagram.com/developer_satoru_akiyama/",
-  facebook: "https://www.facebook.com/satoruakiyama1998",
+  instagram: "https://www.instagram.com",
+  facebook: "https://www.facebook.com",
   github: "https://github.com/SatoruAkiyama/blog-with-nextjs-and-contentful",
-  homepage: "https://satoruakiyama.com",
+  homepage: "https://satoru-akiyama.vercel.app",
   //if you want to add, you can do like following code
   // twitter: "https://twitter.com",
 };
@@ -92,7 +92,7 @@ description="Page title"
 
 # Author
 
-Satoru Akiyama(https://portfolio-satoruakiyama.vercel.app)
+[Satoru Akiyama](https://satoru-akiyama.vercel.app)
 
 # License
 

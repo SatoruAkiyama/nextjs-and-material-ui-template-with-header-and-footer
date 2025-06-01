@@ -4,11 +4,11 @@
 // you can find out  Material icon. => https://material-ui.com/components/material-icons/
 
 export const socialMedia = {
-  instagram: "https://www.instagram.com/developer_satoru_akiyama/",
-  facebook: "https://www.facebook.com/satoruakiyama1998",
+  instagram: "https://www.instagram.com",
+  facebook: "https://www.facebook.com",
   github:
     "https://github.com/SatoruAkiyama/nextjs-and-material-ui-template-with-header-and-footer",
-  homepage: "https://satoruakiyama.com",
+  homepage: "https://satoru-akiyama.vercel.app",
   // You can add like this
   // twitter: "https://twitter.com",
 };
